@@ -43,6 +43,37 @@
       <li><strong>Excel:</strong> Fonte de dados.</li>
       <li><strong>DAX:</strong> Criação de métricas e cálculos.</li>
     </ul>
+      <h2>📈 Insights Obtidos</h2>
+    <ol>
+      <li><strong>Média de Lucro por Categoria:</strong>
+        <ul>
+          <li>A categoria "Tecnologia" apresentou o maior lucro médio, responsável por 47% do total. Isso indica que investir em produtos tecnológicos pode ser uma estratégia lucrativa.</li>
+          <li>Por outro lado, "Material de Escritório" apresentou o menor lucro médio, sugerindo uma análise para reduzir custos ou reavaliar os preços dessa categoria.</li>
+        </ul>
+      </li>
+      <li><strong>Soma de Valor de Venda por Modo de Envio:</strong>
+        <ul>
+          <li>O modo de envio "Mesmo Dia" contribuiu significativamente para o valor total de vendas, indicando que os clientes valorizam entregas rápidas.</li>
+          <li>Modos de envio como "Classe Padrão" e "Segunda Classe" ainda têm peso relevante, mas podem ser áreas para explorar melhorias de custo ou eficiência.</li>
+        </ul>
+      </li>
+      <li><strong>Média de Custo de Envio por Mercado:</strong>
+        <ul>
+          <li>O mercado APAC apresentou o maior custo médio de envio (29,14), seguido pelos mercados US (28,94) e EU (27,84).</li>
+          <li>Mercados como EMEA e Canadá tiveram custos menores, indicando potencial para expandir margens nesses locais.</li>
+        </ul>
+      </li>
+      <li><strong>KPI - Média de Valor de Venda:</strong>
+        <ul>
+          <li>A média de valor de venda está abaixo da meta de 350, com um resultado de 246,49. Isso mostra a necessidade de estratégias para aumentar o valor médio das vendas.</li>
+        </ul>
+      </li>
+      <li><strong>Comportamento da Margem de Lucro ao Longo do Tempo:</strong>
+        <ul>
+          <li>A margem de lucro apresenta variações significativas ao longo do tempo. Investigar os períodos de maior estabilidade ou instabilidade ajudam a identificar fatores que afetam diretamente os lucros.</li>
+        </ul>
+      </li>
+    </ol>
     <h2>📷 Visualizações do Dashboard</h2>
     <img src="https://github.com/naralicecosta/lab2-dashboardDeVendasCustoMargemdeLucroeKPI/blob/main/image/imgdash.png" >
     <h2>🚀 Como Utilizar</h2>
